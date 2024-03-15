@@ -1,0 +1,8 @@
+\sprites_data\doodle\space-left@2x.png
+\sprites_data\doodle\space-left@2x.png
+\sprites_data\doodle\space-left-odskok@2x.png
+\sprites_data\doodle\space-puca@2x.png
+\sprites_data\doodle\space-puca-odskok@2x.png
+\sprites_data\doodle\space-right@2x.png
+\sprites_data\doodle\space-right-odskok@2x.png
+\sprites_data\doodle\doodle_in_rocket.png

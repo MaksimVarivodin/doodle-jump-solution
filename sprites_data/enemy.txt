@@ -1,0 +1,5 @@
+\sprites_data\enemies\enemy1.png
+\sprites_data\enemies\enemy2.png
+\sprites_data\enemies\enemy3.png
+\sprites_data\enemies\enemy4.png
+\sprites_data\enemies\enemy5.png

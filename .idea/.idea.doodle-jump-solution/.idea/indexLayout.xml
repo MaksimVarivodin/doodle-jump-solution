@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders>
+      <Path>framework_x64</Path>
+      <Path>framework_x86</Path>
+      <Path>sprites_data</Path>
+    </attachedFolders>
+    <explicitIncludes />
+    <explicitExcludes />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+\sprites_data\platform\platform_default.png
+\sprites_data\platform\platform_fake1.png
+\sprites_data\platform\platform_fake2.png
+\sprites_data\platform\platform_fake3.png
+\sprites_data\platform\platform_fake4.png
